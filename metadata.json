@@ -1,0 +1,6 @@
+{
+  "name": "Kid Monitor",
+  "description": "Comprehensive parental control and child monitoring platform with real-time WebRTC camera, audio, screen mirroring, GPS geofencing, app blocking, and notification sync.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
